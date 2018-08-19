@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "lodash.max": "^4.0.1",
     "puppeteer": "^1.7.0",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
